@@ -1,14 +1,17 @@
-function product(a, b) {
+function product() {
   const a = 1;
   const b = 10;
+  console.log(a, b);
 }
 
-function divide(c, d) {
+function divide() {
   const c = 3;
   const d = 5;
 }
 
-function power(e, f) {
+function power() {
   const e = 7;
   const f = 9;
 }
+
+product();

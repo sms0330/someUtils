@@ -14,4 +14,9 @@ function power() {
   const f = 9;
 }
 
+function subtract() {
+  const g = 10;
+  const h = 11;
+}
+
 product();
